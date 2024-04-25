@@ -30,7 +30,7 @@ Also, note that the helper function **put_labels_in_image** creates an image wit
 
 Here is a basic example:
 
-```
+```python
 # Import packages
 from mosaicdataset import MosaicDataSet
 import matplotlib.pyplot as plt
