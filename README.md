@@ -34,6 +34,7 @@ Here is a basic example:
 # Import packages
 from mosaicdataset import MosaicDataSet
 import matplotlib.pyplot as plt
+from util import put_labels_in_image
 
 # Create the dataset creator with default parameters.
 dataSet=MosaicDataSet()
